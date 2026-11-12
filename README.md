@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-PC%20Steam%20%7C%20Steam%20Deck%20%7C%20Linux-blue?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/Engine-PlatinumGames%20DX9-crimson?style=for-the-badge" alt="Engine">
   <img src="https://img.shields.io/badge/Coverage-100%25%20Story%20%2B%20DLC%20%2B%20Items-darkgreen?style=for-the-badge" alt="Coverage">
+  <a href="https://trakteer.id/milkyponi"><img src="https://img.shields.io/badge/Donate-Trakteer%20Milky%20Poni-be1e2d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate via Trakteer"></a>
 </p>
 
 ---
@@ -146,3 +147,17 @@ Proyek lokalisasi ini berhasil dieksekusi secara *bit-perfect* berkat riset tekn
 ## ⚖️ Penafian & Hak Cipta
 
 Mod ini adalah karya proyek komunitas nirlaba (*non-commercial fan translation*). Seluruh hak cipta aset visual, audio, musik, kode engine, dan karakter adalah milik **PlatinumGames** dan **Konami Digital Entertainment**.
+
+---
+
+## ☕ Dukung Proyek Ini (Donate)
+
+Jika mod lokalisasi Bahasa Indonesia ini bermanfaat bagi pengalaman bermain Anda, Anda dapat memberikan dukungan pengembangan kepada **Milky Poni** melalui Trakteer:
+
+<p align="center">
+  <a href="https://trakteer.id/milkyponi">
+    <img src="https://img.shields.io/badge/%E2%98%95%20Donate-Dukung%20di%20Trakteer%20(Milky%20Poni)-be1e2d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate via Trakteer" height="40">
+  </a>
+</p>
+
+- **Link Trakteer**: [https://trakteer.id/milkyponi](https://trakteer.id/milkyponi)
